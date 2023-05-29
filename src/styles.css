@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+.cardPrice {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    color: #4C3D3D;
+    font-weight: bold;
+}
+
+
+.cardMedia {
+    height: 55%;
+}
+
+.cardContent {
+    display: block;
+    text-align: start;
+    font-weight: bold;
+    font-size: 0.7rem;
+    height: 4.5rem;
+
+}
+
+.buttonClass {
+    background-color: transparent;
+    border: none;
+    position: absolute;
+    right: 30px;
+}
+
+
+
+.input-search {
+    margin-top: 20px;
+    margin-bottom: 1.5rem;
+    border-radius: 2%;
+    border-color: whitesmoke;
+    height: 3rem;
+    width: 28rem;
+
+}
+
+.toolBar {
+    background-color: #F7D060;
+}
